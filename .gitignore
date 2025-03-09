@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Node.js (for JavaScript stuff)
+node_modules/
+*.log
+
+# HTML/CSS/JS
+*.DS_Store  # MacOS junk files
+*.idea/     # JetBrains IDE settings
